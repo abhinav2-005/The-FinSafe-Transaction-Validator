@@ -5,7 +5,7 @@
 # Run Locally
 # Clone the repo
 
-git clone https://github.com/abhinav2-005/Smart_Expense_Tracker
+git clone https://github.com/abhinav2-005/The-FinSafe-Transaction-Validator
 
 cd The-FinSafe-Transaction-Validator
 
