@@ -12,4 +12,5 @@ cd The-FinSafe-Transaction-Validator
 # Run the code
 
 javac Main.java
+
 java Main
